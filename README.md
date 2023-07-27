@@ -8,6 +8,7 @@ In addition to the material in this git repository, I've also used materials fro
 - http://comp3204.ecs.soton.ac.uk / https://github.com/jonhare/COMP3204
 - http://comp6237.ecs.soton.ac.uk / https://github.com/jonhare/COMP6237
 - http://comp6248.ecs.soton.ac.uk / https://github.com/jonhare/COMP6248
+- http://ecs-vlc.github.io/COMP6258 / https://github.com/ecs-vlc/COMP6258 
 
 ## Extra Activities
 Cumberland lodge is a beautiful building set in the centre of Windsor Great Park. Weather permitting Jon, Niranjan and Adam are likely to go for a walk (possibly to a pub on occasion). If you would like to join us (or go for and independent walk) please take comfortable shoes.
@@ -17,7 +18,7 @@ Cumberland lodge is a beautiful building set in the centre of Windsor Great Park
 (Note that this is only a guide. We'll adapt the content to your needs during the course.)
 
 - **Monday 24th July 2023:** Overview of Machine Learning
-  + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Dr Hare*
+  + *Leaders: Prof Niranjan, Prof Prugel-Bennett and Prof Hare*
   + 9:00-10:00 Bar
     * Tea & Coffee welcome
   + 10:00-10:30 Sandby room
@@ -35,7 +36,7 @@ Cumberland lodge is a beautiful building set in the centre of Windsor Great Park
       * Linear models, Gaussian distributions
     * Bayes Optimal Regression 
     * Fisher Discriminant Analysis
-    * Peceptron
+    * Perceptron
     * Feature selection and Lasso
   + 3:30-4:00 Bar
     * Coffee 
@@ -64,7 +65,7 @@ Cumberland lodge is a beautiful building set in the centre of Windsor Great Park
     * Ethics discussion
   + 7:15-9:00 _Dinner_
     
-- **Wednesday: 26th July 2023:** Advanced Machine Learning
+- **Wednesday: 26th July 2023:** [Advanced Machine Learning](https://github.com/jonhare/DISCnetMachineLearningCourse/raw/master/Wednesday/)
   + Leader: _Adam_
   + 9:00-10:30
     * Generalisation
